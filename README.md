@@ -1,11 +1,11 @@
 # Scrape-Twitter-Without-API
 Python Scrape Twit on Twitter Without API required.
 
-# Require English
+# Require (English)
 Goggle Chrome lastest is better
 ChromeWebDriver same version with Goggle Chrome (extrart)
 
-# Require Indonesia
+# Dibutuhkan (Indonesia)
 Goggle Chrome, versi terbaru lebih baik
 ChromeWebDriver, versinya samakan dengan Google Chrome
 
