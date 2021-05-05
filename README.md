@@ -9,7 +9,7 @@ ChromeWebDriver same version with Goggle Chrome (extrart)
 Goggle Chrome, versi terbaru lebih baik
 ChromeWebDriver, versinya samakan dengan Google Chrome
 
-#Langkah-langkah (Windows) Indonesia
+#Langkah-langkah_(Windows)_Indonesia
 1. Install Pycharm
 2. New Project Pycharm
 3. Pada Pycharm klik terminal (terletak di bawah)
