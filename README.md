@@ -12,9 +12,9 @@ ChromeWebDriver, versinya samakan dengan Google Chrome
 # Langkah-langkah (Windows) "Indonesia"
 1. Install Pycharm
 2. New Project Pycharm
-3. Pada Pycharm klik terminal (terletak di bawah)
+3. Pada Pycharm, klik terminal (terletak di bawah)
 4. Ketikan pip install -r requirements.txt
-5. Pada sebelah kiri tombol run (klik icon segitiga ke bawah)
+5. Pada sebelah kiri tombol run (klik icon segitiga )
 6. Klik Edit Configurations
 7. Centang Emulate Terminal in output console
 8. Klik run
